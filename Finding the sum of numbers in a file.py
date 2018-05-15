@@ -10,3 +10,4 @@ for line in file:
         number = float(ext[i])
         num.append(number)
 print(sum(num))
+
